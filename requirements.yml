@@ -1,0 +1,14 @@
+name: geoEnv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - beautifulsoup4
+  - flask
+  - geopandas
+  - cartopy
+  - flask-cors
+  - matplotlib
+  - seaborn
+prefix: C:\ProgramData\Anaconda3\envs\geoEnv
