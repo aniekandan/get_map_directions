@@ -1,1 +1,2 @@
-./geo_app/__pycache__
+./geo_app/__pycache__/*
+/geo_app/static/assets/*
